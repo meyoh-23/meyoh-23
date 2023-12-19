@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @meyoh-23
-- 👀 I’m interested in Data analysis and Machine Learning
-- 🌱 I’m currently learning Data analysis with Python
-- 💞️ I’m looking to collaborate on Data analysis and Machine learning
-- 📫 How to reach me on moxiemeyoh@gmail.com
+- 👀 Frontend web app dev
+- 🌱javascript react-js node js CSS html python
+- 💞️ tailwind CSS Material-UI react-styled-component
+- 📫 Above all, I keep learning, improving, and becoming a  better developer day by day.
 
 <!---
 meyoh-23/meyoh-23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
